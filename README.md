@@ -1,64 +1,96 @@
-<!-- Trungquandev -->
-<a href="#" target="_blank">
-  <img src="svg/trungquandev.svg" width="1200" />
-</a>
+<!-- DUONG NGUYEN GITHUB PROFILE -->
+<p align="center">
+  <img src="images/banner.png" width="100%" alt="Duong Nguyen Banner">
+</p>
 
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
-<br>
-<!-- https://simpleicons.org/ -->
-<span><img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java logo" title="Java" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=Spring&logoColor=white" alt="Spring boot" title="SpringBoot" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
-&nbsp;
+<h1 align="center">👋 Hi there, I'm Duong Nguyen!</h1>
 
-<br>
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<br>
-<div align=center>
-  <a href="#" title="Trungquandev">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuongGB&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+<p align="center">
+  <a href="https://linkedin.com/in/duong-nguyen-019aba264/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="#" title="Trungquandev">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=DuongGB&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  <a href="mailto:duongnguyen.work@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-</div>
+  <a href="https://fb.com/duownggbb" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+</p>
 
-<br>
-<h2 align="center">👽 Where to find me 👽</h2>
-<br>
-<!-- https://icons8.com -->
+<hr>
+
+## 🚀 About Me
+I am a dedicated **Software Engineer** specializing in backend development and cloud architecture. With a strong foundation in **Java Spring Boot**, **Microservices**, and **AWS**, I focus on building scalable, high-performance systems. I am also passionate about exploring **AI integration** in modern web applications.
+
+- 🎓 **Education:** Ho Chi Minh City University of Industry (GPA: 3.22/4.0)
+- 💼 **Current Focus:** Microservices Architecture & Cloud-native solutions
+- 🛠 **Latest Project:** AI-powered E-commerce Platform
+- ✉️ **Contact:** [duongnguyen.work@gmail.com](mailto:duongnguyen.work@gmail.com)
+
+---
+
+## 🛠 My Tech Stack
+
+### 💻 Languages & Core
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,javascript,typescript,html,css,cpp" />
+  </a>
+</p>
+
+### 🌐 Frameworks & Libraries
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,react,nextjs,nodejs,express,bootstrap" />
+  </a>
+</p>
+
+### 🗄 Databases & Cloud
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,aws,docker" />
+  </a>
+</p>
+
+### 🔧 Tools & Others
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Statistics
 <div align="center">
-  <a href="https://www.facebook.com/duownggbb/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="nguyentanthaiduong-facebook" />
-  </a>
-   <a href="" target="blank">
-    <img src="https://img.icons8.com/?size=100&id=HtQAciyY7o1f&format=png&color=000000" alt="nguyentanthaiduong-zalo" />
-  </a>
-  <a href="https://www.facebook.com/duownggbb/" target="blank">
-    <img src="https://img.icons8.com/?size=100&id=115362&format=png&color=000000" alt="nguyentanthaiduong-youtube" />
-  </a>
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DuongGB&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuongGB&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DuongGB&theme=tokyonight&border_radius=10" alt="Streak Stats" />
 </div>
 
-<br>
-<h2 align="center">📑 My Favorites Quote 📑</h2>
-<br>
-<a href="#" target="_blank">
-  <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="trungquandev-official" />
-</a>
+---
+
+## 🏗 Experience Highlight
+### **Intern Software Engineer | FPT Software**
+*LIMS Project (Microservices Architecture)*
+- Designed and implemented scalable backend services using **Spring Boot**.
+- Integrated **AWS APIs** for robust cloud communication.
+- Optimized query performance using **MongoDB** indexing.
+- Collaborated in an Agile team to deliver high-quality code and documentation.
+
+---
+
+<p align="center">
+  <i>"Transforming complex problems into elegant code."</i>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=DuongGB&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
