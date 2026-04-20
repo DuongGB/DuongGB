@@ -6,10 +6,10 @@
 <h1 align="center">👋 Hi there, I'm Duong Nguyen!</h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/duong-nguyen-019aba264/" target="_blank">
+  <a href="https://www.linkedin.com/in/d%C6%B0%C6%A1ng-nguy%E1%BB%85n-7528a736a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:duongnguyen.work@gmail.com">
+  <a href="mailto:duongnguyenqn1323@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://fb.com/duownggbb" target="_blank">
@@ -55,7 +55,7 @@ I am a dedicated **Software Engineer** specializing in backend development and c
 ### 🔧 Tools & Others
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
   </a>
 </p>
 
@@ -74,7 +74,6 @@ I am a dedicated **Software Engineer** specializing in backend development and c
     </tr>
   </table>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DuongGB&theme=tokyonight&border_radius=10" alt="Streak Stats" />
 </div>
 
 ---
@@ -94,3 +93,5 @@ I am a dedicated **Software Engineer** specializing in backend development and c
   <br>
   <img src="https://komarev.com/ghpvc/?username=DuongGB&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
+ width="846" height="150" alt="trungquandev-official" />
+</a>
