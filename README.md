@@ -1,97 +1,84 @@
-<!-- DUONG NGUYEN GITHUB PROFILE -->
-<p align="center">
-  <img src="images/banner.png" width="100%" alt="Duong Nguyen Banner">
-</p>
+<img src="images/banner.png" alt="Duong Nguyen Banner" width="100" />\# 👨‍💻 Duong Nguyen (Nguyen Tan Thai Duong)
 
-<h1 align="center">👋 Hi there, I'm Duong Nguyen!</h1>
+### 🚀 Java Backend Engineer | AI-Integrated Software Engineer | FullStack Developer
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/d%C6%B0%C6%A1ng-nguy%E1%BB%85n-7528a736a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:duongnguyenqn1323@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://fb.com/duownggbb" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-  </a>
-</p>
+![Portfolio](https://img.shields.io/badge/Portfolio-devduong.vercel.app-2563EB?style=for-the-badge&logo=vercel&logoColor=white)![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)![Phone](https://img.shields.io/badge/Phone-\(+84\)%20356.309.561-10B981?style=for-the-badge&logo=whatsapp&logoColor=white)![Status](https://img.shields.io/badge/Status-Open%20for%20Opportunities-brightgreen?style=flat-square)![Education](https://img.shields.io/badge/Education-IUH%20Software%20Engineering-blue?style=flat-square)![GPA](https://img.shields.io/badge/GPA-3.22%20%2F%204.0-yellow?style=flat-square)![Scholarship](https://img.shields.io/badge/Merit%20Scholarships-30%25%20%26%2070%25-orange?style=flat-square)![TOEIC](https://img.shields.io/badge/English-TOEIC%20695-purple?style=flat-square)![Location](https://img.shields.io/badge/Location-Ho%20Chi%20Minh%20City%2C%20VN-informational?style=flat-square)\---
 
-<hr>
+## 🎯 Executive Summary & Engineering Mindset
 
-## 🚀 About Me
-I am a dedicated **Software Engineer** specializing in backend development and cloud architecture. With a strong foundation in **Java Spring Boot**, **Microservices**, and **AWS**, I focus on building scalable, high-performance systems. I am also passionate about exploring **AI integration** in modern web applications.
+Software Engineering graduate from **Industrial University of Ho Chi Minh City (IUH)** with nearly one year of intensive, production-grade experience specializing in **Java & Spring Boot backend ecosystems**, distributed **Microservices architectures**, event-driven workflows, and practical **AI integration**.
 
-- 🎓 **Education:** Ho Chi Minh City University of Industry (GPA: 3.22/4.0)
-- 💼 **Current Focus:** Microservices Architecture & Cloud-native solutions
-- 🛠 **Latest Project:** AI-powered E-commerce Platform
-- ✉️ **Contact:** [duongnguyen.work@gmail.com](mailto:duongnguyen.work@gmail.com)
+- 🏛️ **Architecture & Standards:** Strong commitment to **Clean Architecture, SOLID, DRY, and KISS principles**. Proficient in architecting RESTful APIs, securing distributed services with Spring Security & OAuth2/JWT, and designing resilient relational & NoSQL data schemas with ACID integrity and query optimization (Index tuning, N+1 query elimination).
+- ⚙️ **Distributed Systems & Scalability:** Practical experience building high-throughput, event-driven pipelines using **Apache Kafka**, low-latency multi-tier caching with **Redis**, and bidirectional real-time communication via **WebSocket & STOMP**.
 
 ---
 
-## 🛠 My Tech Stack
+## 🛠️ Technical Ecosystem & Skill Matrix
 
-### 💻 Languages & Core
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,javascript,typescript,html,css,cpp" />
-  </a>
-</p>
+### ☕ Core Backend & Distributed Systems
 
-### 🌐 Frameworks & Libraries
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,react,nextjs,nodejs,express,bootstrap" />
-  </a>
-</p>
+![](https://skillicons.dev/icons?i=java,spring,hibernate,postgres,mysql,mongodb,redis,kafka,rabbitmq)\- **Languages & Frameworks:** Java 21, Spring Boot 3.x / 4, Spring Data JPA, Spring Security, Spring MVC.
 
-### 🗄 Databases & Cloud
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,aws,docker" />
-  </a>
-</p>
+- **Security & Identity:** OAuth2, JWT, AWS Cognito, Role-Based Access Control (RBAC).
+- **Event Streaming & Real-time:** Apache Kafka, RabbitMQ, WebSocket / SockJS / STOMP, Socket.IO.
+- **Databases & Storage:** PostgreSQL, MySQL, MariaDB, MongoDB, Redis Cache, MinIO (S3-compatible).
 
-### 🔧 Tools & Others
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-  </a>
-</p>
+### ☁️ Cloud, DevOps & Observability
+
+![](https://skillicons.dev/icons?i=aws,docker,prometheus,grafana,git,github,postman)\- **Cloud Infrastructure:** AWS (EC2, S3, Cognito, OpenSearch, Bedrock, CloudWatch, Route 53), Render, Vercel.
+
+- **Containerization & CI/CD:** Docker, Docker Compose, GitHub Actions.
+- **Observability & Metrics:** Prometheus, Grafana, AWS CloudWatch, Slack Alert Webhooks.
+- **Database Migrations & Tooling:** Flyway, Liquibase, Playwright, MailHog, Apache POI.
+
+### 🌐 Frontend & User Interfaces
+
+![](https://skillicons.dev/icons?i=react,ts,js,tailwind,redux,vite,vue,bootstrap)\- React 19, TypeScript, Vite, Tailwind CSS, TanStack Query, Redux Toolkit, Vue.js, Chart.js, i18next.
 
 ---
 
-## 📊 GitHub Statistics
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DuongGB&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuongGB&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-  <br>
-</div>
+## 💼 Work Experience Highlights
+
+### 🏢 Intern Java Developer | **FPT Software HCM** *(Sep 2025 – Dec 2025)*
+
+**Project: Laboratory Information Management System (LIMS)** *(Microservices Architecture)*
+
+- Engineered enterprise microservices using **Java 21** and **Spring Boot 3.3**, encompassing core domains: *IAM, Patient Management, Test Orders, Instruments, and Warehouse Inventory*.
+- Built resilient asynchronous workflows using **Apache Kafka** event streaming paired with **Redis** multi-layer caching for rapid sub-millisecond retrieval.
+- Implemented zero-trust authentication & authorization pipelines leveraging **Spring Security, AWS Cognito, OAuth2, and RBAC**.
+- Integrated **AWS Bedrock** generative AI models to analyze complex diagnostic test patterns and automated high-compliance reporting with **JasperReports**.
+- Configured end-to-end observability and distributed tracing with **Prometheus, Grafana, AWS CloudWatch**, and instant Slack alerts.
+
+### 🏢 Fullstack Developer | **Techzen Company Limited** *(Jan 2026 – Jun 2026)*
+
+**Project: Enterprise HR Analytics & Management Platform**
+
+- Developed and maintained high-performance RESTful services with **Spring Boot** to aggregate and synchronize distributed employee data across corporate branches.
+- Handled high-volume bulk Excel imports/exports using **Apache POI**, optimized SQL query plans, and enforced pagination & filtering across large dataset volumes.
+- Integrated AI-assisted analytics to generate actionable workforce insights and automated HR summaries.
+- Created interactive analytics dashboards using **Vue.js, Chart.js**, and localized experiences with **i18n**.
 
 ---
 
-## 🏗 Experience Highlight
-### **Intern Software Engineer | FPT Software**
-*LIMS Project (Microservices Architecture)*
-- Designed and implemented scalable backend services using **Spring Boot**.
-- Integrated **AWS APIs** for robust cloud communication.
-- Optimized query performance using **MongoDB** indexing.
-- Collaborated in an Agile team to deliver high-quality code and documentation.
+## 🚀 Featured Production & Open-Source Projects
+
+| Project | Architecture & Tech Stack | Key Architectural Features & Business Impact | Source Code |
+| --- | --- | --- | --- |
+| **HRMPro**<br>*(Enterprise HRMS Platform)* | • Spring Boot, MySQL, Flyway<br>• React, Tailwind CSS<br>• Docker, MinIO, Cron Jobs, MailHog | • Strict multi-tiered RBAC (Admin / Manager / Employee)<br>• Automated recurring cron jobs for attendance & notifications<br>• S3-compatible document storage via MinIO with MailHog validation | [📂 GitHub](https://github.com/DuongGB/HRMPro) |
+| **Sports Center**<br>*(Facility Booking & Operations)* | • Spring Boot 4, React 19, PostgreSQL<br>• Liquibase, SockJS, STOMP<br>• TanStack Query, Shadcn/ui | • Conversational AI booking assistant powered by **Google Gemini**<br>• Secure checkout integration via **PayPal Smart Checkout SDK**<br>• Real-time ticket scanning & check-in with dynamic **QR Codes & STOMP** | [📂 GitHub](https://github.com/DuongGB/sports-center) |
+| **AI E-Commerce & Forecasting**<br>*(Intelligent Commerce Platform)* | • Spring Boot 3, Python FastAPI<br>• Meta Prophet AI, React, Tailwind<br>• Neon PostgreSQL, Docker, AWS EC2 | • Predictive sales revenue forecasting powered by **Meta Prophet**<br>• Personalized **Hybrid Recommendation System**<br>• Real-time inventory synchronization, PayPal & GHN shipping APIs | [📂 FE Repo](https://github.com/DuongGB/FE_DVFashion) |
+| **Personal Portfolio**<br>*(Interactive Showcase)* | • React, TypeScript, Tailwind CSS<br>• Vercel Deployment, Responsive Design | • Modern, highly optimized developer portfolio showcase<br>• Comprehensive project case studies and live interactive demos | [🌐 Live Demo](https://devduong.vercel.app)<br>[📂 GitHub](https://github.com/DuongGB/personal-portfolio) |
 
 ---
 
-<p align="center">
-  <i>"Transforming complex problems into elegant code."</i>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=DuongGB&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
- width="846" height="150" alt="trungquandev-official" />
-</a>
+## 📊 Real-Time GitHub Activity & Metrics
+
+<table style="min-width: 50px;">
+<colgroup><col style="min-width: 25px;"><col style="min-width: 25px;"></colgroup><tbody><tr><td colspan="1" rowspan="1"><img src="https://github-readme-stats.vercel.app/api?username=DuongGB&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;icon_color=58A6FF&amp;text_color=C9D1D9" alt="DuongGB's GitHub Stats"></td><td colspan="1" rowspan="1"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuongGB&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=C9D1D9" alt="Top Languages"></td></tr></tbody>
+</table>
+
+![DuongGB Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=DuongGB&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF)\---
+
+> *"Writing clean, maintainable code isn't just about syntax—it's about engineering resilient solutions that solve real-world problems."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=DuongGB&color=2563eb&style=flat-square&label=Profile+Views)© 2026 **Nguyen Tan Thai Duong**. Crafted with a passion for software engineering excellence.v
