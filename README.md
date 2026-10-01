@@ -2,8 +2,7 @@
 
 ### 🚀 Java Backend Engineer | AI-Integrated Software Engineer | FullStack Developer
 
-![Portfolio](https://img.shields.io/badge/Portfolio-devduong.vercel.app-2563EB?style=for-the-badge&logo=vercel&logoColor=white)![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)![Phone](https://img.shields.io/badge/Phone-\(+84\)%20356.309.561-10B981?style=for-the-badge&logo=whatsapp&logoColor=white)![Status](https://img.shields.io/badge/Status-Open%20for%20Opportunities-brightgreen?style=flat-square)![Education](https://img.shields.io/badge/Education-IUH%20Software%20Engineering-blue?style=flat-square)![GPA](https://img.shields.io/badge/GPA-3.22%20%2F%204.0-yellow?style=flat-square)![Scholarship](https://img.shields.io/badge/Merit%20Scholarships-30%25%20%26%2070%25-orange?style=flat-square)![TOEIC](https://img.shields.io/badge/English-TOEIC%20695-purple?style=flat-square)![Location](https://img.shields.io/badge/Location-Ho%20Chi%20Minh%20City%2C%20VN-informational?style=flat-square) 
-🎯 Executive Summary & Engineering Mindset
+![Portfolio](https://img.shields.io/badge/Portfolio-devduong.vercel.app-2563EB?style=for-the-badge&logo=vercel&logoColor=white)![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)![Phone](https://img.shields.io/badge/Phone-\(+84\)%20356.309.561-10B981?style=for-the-badge&logo=whatsapp&logoColor=white)![Status](https://img.shields.io/badge/Status-Open%20for%20Opportunities-brightgreen?style=flat-square)![Education](https://img.shields.io/badge/Education-IUH%20Software%20Engineering-blue?style=flat-square)![GPA](https://img.shields.io/badge/GPA-3.22%20%2F%204.0-yellow?style=flat-square)![Scholarship](https://img.shields.io/badge/Merit%20Scholarships-30%25%20%26%2070%25-orange?style=flat-square)![TOEIC](https://img.shields.io/badge/English-TOEIC%20695-purple?style=flat-square)![Location](https://img.shields.io/badge/Location-Ho%20Chi%20Minh%20City%2C%20VN-informational?style=flat-square)🎯 Executive Summary & Engineering Mindset
 
 Software Engineering graduate from **Industrial University of Ho Chi Minh City (IUH)** with nearly one year of intensive, production-grade experience specializing in **Java & Spring Boot backend ecosystems**, distributed **Microservices architectures**, event-driven workflows, and practical **AI integration**.
 
@@ -16,7 +15,8 @@ Software Engineering graduate from **Industrial University of Ho Chi Minh City (
 
 ### ☕ Core Backend & Distributed Systems
 
-![](https://skillicons.dev/icons?i=java,spring,hibernate,postgres,mysql,mongodb,redis,kafka,rabbitmq)\- **Languages & Frameworks:** Java 21, Spring Boot 3.x / 4, Spring Data JPA, Spring Security, Spring MVC.
+![](https://skillicons.dev/icons?i=java,spring,hibernate,postgres,mysql,mongodb,redis,kafka,rabbitmq)- **Languages & Frameworks:** Java 21, Spring Boot 3.x / 4, Spring Data JPA, Spring Security, Spring MVC.
+
 
 - **Security & Identity:** OAuth2, JWT, AWS Cognito, Role-Based Access Control (RBAC).
 - **Event Streaming & Real-time:** Apache Kafka, RabbitMQ, WebSocket / SockJS / STOMP, Socket.IO.
@@ -24,7 +24,8 @@ Software Engineering graduate from **Industrial University of Ho Chi Minh City (
 
 ### ☁️ Cloud, DevOps & Observability
 
-![](https://skillicons.dev/icons?i=aws,docker,prometheus,grafana,git,github,postman)\- **Cloud Infrastructure:** AWS (EC2, S3, Cognito, OpenSearch, Bedrock, CloudWatch, Route 53), Render, Vercel.
+![](https://skillicons.dev/icons?i=aws,docker,prometheus,grafana,git,github,postman)- **Cloud Infrastructure:** AWS (EC2, S3, Cognito, OpenSearch, Bedrock, CloudWatch, Route 53), Render, Vercel.
+
 
 - **Containerization & CI/CD:** Docker, Docker Compose, GitHub Actions.
 - **Observability & Metrics:** Prometheus, Grafana, AWS CloudWatch, Slack Alert Webhooks.
@@ -32,7 +33,7 @@ Software Engineering graduate from **Industrial University of Ho Chi Minh City (
 
 ### 🌐 Frontend & User Interfaces
 
-![](https://skillicons.dev/icons?i=react,ts,js,tailwind,redux,vite,vue,bootstrap)\- React 19, TypeScript, Vite, Tailwind CSS, TanStack Query, Redux Toolkit, Vue.js, Chart.js, i18next.
+![](https://skillicons.dev/icons?i=react,ts,js,tailwind,redux,vite,vue,bootstrap)- React 19, TypeScript, Vite, Tailwind CSS, TanStack Query, Redux Toolkit, Vue.js, Chart.js, i18next.
 
 ---
 
