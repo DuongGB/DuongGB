@@ -1,4 +1,4 @@
-<img src="images/banner.png" alt="Duong Nguyen Banner" width="100" />\# 👨‍💻 Duong Nguyen (Nguyen Tan Thai Duong)
+# 👨‍💻 Duong Nguyen (Nguyen Tan Thai Duong)
 
 ### 🚀 Java Backend Engineer | AI-Integrated Software Engineer | FullStack Developer
 
